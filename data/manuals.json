@@ -1,0 +1,82 @@
+﻿[
+    {
+        "title":  "Agentes",
+        "category":  "Cadastros",
+        "group":  "Agentes",
+        "description":  "Manual para cadastrar e manter agentes no ERP Geweb.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Tipos de agente",
+        "category":  "Cadastros",
+        "group":  "Agentes",
+        "description":  "Orientacoes sobre os tipos de agente usados no sistema.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Vendedores",
+        "category":  "Cadastros",
+        "group":  "Agentes",
+        "description":  "Passo a passo para cadastrar vendedores.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Transportadoras",
+        "category":  "Cadastros",
+        "group":  "Agentes",
+        "description":  "Manual para cadastro e manutencao de transportadoras.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Cidades",
+        "category":  "Cadastros",
+        "group":  "Agentes",
+        "description":  "Como cadastrar cidades e revisar dados relacionados.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Produtos",
+        "category":  "Cadastros",
+        "group":  "Produtos",
+        "description":  "Manual para cadastrar produtos, campos principais e dados comerciais.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Familias",
+        "category":  "Cadastros",
+        "group":  "Produtos",
+        "description":  "Como cadastrar familias para organizar os produtos.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Grupos",
+        "category":  "Cadastros",
+        "group":  "Produtos",
+        "description":  "Como organizar produtos em grupos no ERP.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Regra de tributacao",
+        "category":  "Cadastros",
+        "group":  "Produtos",
+        "description":  "Manual para regras fiscais e tributarias ligadas aos produtos.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    },
+    {
+        "title":  "Tabela de preco",
+        "category":  "Cadastros",
+        "group":  "Produtos",
+        "description":  "Como configurar e atualizar tabelas de preco.",
+        "updatedAt":  "03/06/2026",
+        "pdf":  ""
+    }
+]
