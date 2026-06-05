@@ -1,0 +1,101 @@
+[
+    {
+        "tipo":  "geral",
+        "empresa":  "",
+        "titulo":  "Cadastro de agentes",
+        "categoria":  "Cadastros",
+        "descricao":  "Manual para cadastrar e manter agentes no ERP Geweb.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Agentes"
+    },
+    {
+        "tipo":  "geral",
+        "empresa":  "",
+        "titulo":  "Contas a receber",
+        "categoria":  "Financeiros",
+        "descricao":  "Fluxo base para conferir titulos, baixas e recebimentos.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Contas a receber"
+    },
+    {
+        "tipo":  "geral",
+        "empresa":  "",
+        "titulo":  "Integracao de pedidos",
+        "categoria":  "Integracoes",
+        "descricao":  "Orientacoes para acompanhar importacoes e integracoes externas.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Pedidos"
+    },
+    {
+        "tipo":  "empresa",
+        "empresa":  "JASPE",
+        "titulo":  "Separacao por lote",
+        "categoria":  "Operacional",
+        "descricao":  "Rotina especifica da JASPE para separacao e conferencia de lotes.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Lotes"
+    },
+    {
+        "tipo":  "empresa",
+        "empresa":  "SOGAMAX",
+        "titulo":  "Pedido integrado",
+        "categoria":  "Integracoes",
+        "descricao":  "Como revisar pedidos recebidos pela integracao da SOGAMAX.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Pedidos"
+    },
+    {
+        "tipo":  "empresa",
+        "empresa":  "DROGAMAIS",
+        "titulo":  "Tabela de preco por filial",
+        "categoria":  "Financeiros",
+        "descricao":  "Manual da DROGAMAIS para trabalhar com tabelas por filial.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Tabela de preco"
+    },
+    {
+        "tipo":  "empresa",
+        "empresa":  "MEDICAMENTAL",
+        "titulo":  "Conferencia de produtos controlados",
+        "categoria":  "Operacional",
+        "descricao":  "Processo especifico para conferencia de produtos controlados.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Produtos"
+    },
+    {
+        "tipo":  "empresa",
+        "empresa":  "CHOLMED",
+        "titulo":  "Cadastro especial de clientes",
+        "categoria":  "Cadastros",
+        "descricao":  "Campos e regras usados pela CHOLMED no cadastro de clientes.",
+        "atualizadoEm":  "03/06/2026",
+        "pdf":  "",
+        "videoYoutube":  "",
+        "assunto":  "Clientes"
+    },
+    {
+        "tipo":  "geral",
+        "empresa":  "",
+        "titulo":  "NFE TESTE",
+        "categoria":  "nfe",
+        "descricao":  "NFE DE MANIFESTAÃ‡ÃƒO TESTE",
+        "atualizadoEm":  "05/06/2026",
+        "pdf":  "/geweb/storage/uploads/manual-20260605-160033-fa5319e8.pdf",
+        "videoYoutube":  "",
+        "assunto":  "NFe"
+    }
+]
